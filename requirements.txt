@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+flask-cors>=4,<7
+flask-pymongo>=2.3,<4
+pymongo[srv]>=4.6,<5
